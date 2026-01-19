@@ -1,1 +1,1 @@
-print("Experiment 6 – Merge feature-branch into master")
+print("Experiment 6 – Change made in feature-branch")
